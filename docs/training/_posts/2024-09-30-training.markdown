@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Training"
+date:   2024-09-30 14:07:18 +0200
+categories: jekyll update
+---
+
+
+Local public health staff and academics trained on mosquito sensing technologies
+
+- VBDCC staff
+- Na Moung Phet staff
+- Local academics
+- Photos of technologies trained
+- Photos from training day
