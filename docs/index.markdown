@@ -6,6 +6,10 @@ layout: page
 ---
 
 
+    This is a *draft website.*
+    Content links at still waiting to be updated.
+
+
 This website houses outputs from the [Accelerating the adoption of wingbeat-based sensing to quantify mosquito species abundance in the tropics](./about) project. Insights generated from this project are summarized below with full details available in the **[Full project report]()**.
 
 <br>
