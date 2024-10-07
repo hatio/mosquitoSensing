@@ -1,26 +1,30 @@
 ---
 layout: post
-title:  "Are sensing technologies ready for scale up?"
+title:  "Transitioning 'accoustic sensors' into the real world"
 date:   2024-09-30 14:07:18 +0200
 categories: jekyll update
 ---
 
-XXXXX
+Acoustic sensors, i.e. microphones, are affordable and abundant.
+While quality varies widely, capturing frequencies of mosquito wingbeats do not require specialised microphones. Many research works have shown success in classifying species and sex of mosquitoes recorded through cheap, afforable microphones.
+
+The transition from research to real world application need to overcome multiple hurdles.
+It needs to be proven in multiple phases.
+
+First, showing that "It works."
+Questions here involve:
+- Will the mosquito fly by (enough)?
+- Will signals be interfered by surrounding noises?
+- Will the detection and classifications be accurate (enough)?
+
+Whether the attainable performance is sufficient depends on other questions which have yet been answered due to the scarcity of mosquito data in the first place. Two important questions are:
+- Is the insight actionable?
+- Is the action impactful?
 
 
+Once the technology is shown to work, the next hurdle to overcome is to prove that "It's worth trying." This requires low/no upfront cost to trial implement the technology. In this respect, mobile phone apps are appealing as they are abundant requiring not dedicated investment just for the trial. The technology also needs to be well-accepted by the community. Further details on acceptance is provided below.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In the event of a successful trial, scalability is the next issue.
+The technology needs to have a low price per unit, requires low maintenance and low/no expertise to roll out and sustain.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

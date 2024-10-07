@@ -26,9 +26,11 @@ This project is an interdisciplinary, cross-sector collaboration between:
 
 # The Project
 
-- Field deployment
-- Controlled recordings of mosquitoes
-- Stakeholder meetings
+**Real-world deployment.** This project deployed acoustic sensors into common areas of 60 households for 3 days (~72 hours). A mosquito trap was deployed together with the acoustic sensors to lure and capture adult mosquitoes in the house. Every ~24 hours, trapped mosquitoes were retrieved from the catch bags, classified by species, and counted. These trapped counts serves as a benchmark for the mosquito species count detected via the acoustic sensors, acknowledging that mosquitoes may also fly by but not enter the traps.
+
+**Controlled recordings.** On the sensor installation day, we surveyed containers within and around the houses for mosquito larvae and brought them back to the entomological unit to emerge into adulthood in a cloth cage. Individual mosquitoes were transferred to minicages to obtain 5-minutes of audio recordings of their flights. Species and sex classified by a certified entomologist was documented along with the number of days since their emergence.
+
+**Stakeholder engagement.** After the conclusion of deployments in all households, the project team held a meeting with residents of the homes to acquire insights from their experience with the technologies. Insights from public health officials were obtained in all phases of the project from co-design, co-delivery, to post-delivery focus meetings.
 
 
 
