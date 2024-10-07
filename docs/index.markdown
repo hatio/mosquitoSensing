@@ -31,7 +31,7 @@ The performance of the sensors hinges on the availability and quality of real-wo
 
 *Phase 2: Trial Feasibility – "Is It Worth Trying?"*
 
-Following proof of concept, the next step is to assess the feasibility of broader implementation. In this project, we developed and trialed a [mobile phone app prototype](#prototypes-and-associated-resources) in real homes. Mobile apps offer a cost-effective option, as they leverage existing infrastructure and require no additional investment. Based on user feedback, a more robust version is in development and will soon be available for further testing.
+Following proof of concept, the next step is to assess the feasibility of broader implementation. In this project, we developed and trialed a [mobile phone app prototype](#prototypes-and-development-needs) in real homes. Mobile apps offer a cost-effective option, as they leverage existing infrastructure and require no additional investment. Based on user feedback, a more robust version is in development and will soon be available for further testing.
 
 Community acceptance was high but depended on trust, which we fostered through partnerships with community health volunteers. Transparency about what was being recorded reassured residents and ensured privacy. Furthermore, we found that human noise filtering was unnecessary, as disjoint audio segments made words incomprehensible, further easing privacy concerns. Ensuring trust and community buy-in will be crucial for the success of future trials and widespread adoption.
 
